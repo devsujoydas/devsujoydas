@@ -100,6 +100,14 @@
       <td><img src="https://img.shields.io/github/languages/top/devsujoydas/devsujoydas-portfolio?style=flat-square" /></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/devsujoydas/residential-real-estate">Xenon Media</a></td>
+      <td><img src="https://img.shields.io/github/stars/devsujoydas/mini-social-app?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/devsujoydas/mini-social-app?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/devsujoydas/mini-social-app?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/devsujoydas/mini-social-app?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/languages/top/devsujoydas/mini-social-app?style=flat-square" /></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/devsujoydas/residential-real-estate">Residential Real Estate</a></td>
       <td><img src="https://img.shields.io/github/stars/devsujoydas/residential-real-estate?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/forks/devsujoydas/residential-real-estate?style=flat-square" /></td>
