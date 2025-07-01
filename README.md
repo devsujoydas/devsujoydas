@@ -1,14 +1,15 @@
 
 <a href="https://www.linkedin.com/in/devsujoydas" target="_blank">
   <img 
-    style="width: 100%; object-fit: cover;" 
-    src="https://media.licdn.com/dms/image/v2/D4D16AQGwGc-1K0X9-w/profile-displaybackgroundimage-shrink_350_1400/B4DZYJfOGbHsAY-/0/1743915902628?e=1750291200&v=beta&t=gN3cnaRB3u-zt9ZyKpyBT_oOWDMIP5szc5FhhH5lKIw" 
+    src="http://media.licdn.com/dms/image/v2/D4D16AQEIVVgiRJzKSw/profile-displaybackgroundimage-shrink_350_1400/B4DZfG4Uw0HAAY-/0/1751388346026?e=1756944000&v=beta&t=LoNwlz1ObQoJKGXOKk1UJYT0NM03N17gEVIGXdWnEUk" 
     alt="Sujoy Das - Front-End Web Developer" 
+    width="100%" 
   />
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&width=400&lines=Full+Stack+Web+Developer;Self+taught+Developer;2%2B+years+of+coding+experience;Always+learning+new+things">
-  </p>
 </a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=400&lines=Full+Stack+Web+Developer;Self+taught+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Sujoy Das!</h1>
 
@@ -100,12 +101,20 @@
       <td><img src="https://img.shields.io/github/languages/top/devsujoydas/devsujoydas-portfolio?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/devsujoydas/residential-real-estate">Xenon Media</a></td>
+      <td><a href="https://github.com/devsujoydas/mini-social-app">Xenon Media</a></td>
       <td><img src="https://img.shields.io/github/stars/devsujoydas/mini-social-app?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/forks/devsujoydas/mini-social-app?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/issues/devsujoydas/mini-social-app?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/issues-pr/devsujoydas/mini-social-app?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/languages/top/devsujoydas/mini-social-app?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devsujoydas/nest-mart-grocery-client">Nest Mart BD</a></td>
+      <td><img src="https://img.shields.io/github/stars/devsujoydas/nest-mart-grocery-client?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/devsujoydas/nest-mart-grocery-client?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/devsujoydas/nest-mart-grocery-client?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/devsujoydas/nest-mart-grocery-client?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/languages/top/devsujoydas/nest-mart-grocery-client?style=flat-square" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/devsujoydas/residential-real-estate">Residential Real Estate</a></td>
@@ -138,14 +147,6 @@
       <td><img src="https://img.shields.io/github/issues/devsujoydas/gadget-mart-bd?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/issues-pr/devsujoydas/gadget-mart-bd?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/languages/top/devsujoydas/gadget-mart-bd?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/devsujoydas/nest-mart-bd">Nest Mart BD</a></td>
-      <td><img src="https://img.shields.io/github/stars/devsujoydas/nest-mart-bd?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/forks/devsujoydas/nest-mart-bd?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues/devsujoydas/nest-mart-bd?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/devsujoydas/nest-mart-bd?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/languages/top/devsujoydas/nest-mart-bd?style=flat-square" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/devsujoydas/react-career-hub">React Career Hub</a></td>
