@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 - 💻 I love building awesome websites and solving real-world problems with code.
-- 🔭 Currently working on: **My personal portfolio** → [devsujoydas.netlify.app](https://devsujoydas.netlify.app)
+- 🔭 Currently working on: **My personal portfolio** → [devsujoydas.vercel.app](https://devsujoydas.vercel.app)
 - 🌱 Exploring: **Node.js, Express.js, MongoDB**
 - 💬 Ask me about: **Frontend Development**
 - 📫 Reach me at: **devsujoydas@gmail.com**
