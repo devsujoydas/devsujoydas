@@ -8,9 +8,8 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=400&lines=Full+Stack+Web+Developer;Self+taught+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=200&color=E0C291&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Self+taught+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" />
 </p>
-
 <h1 align="center">👋 Hi, I'm Sujoy Das!</h1>
 
 <div align="center">
@@ -69,18 +68,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devsujoydas&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsujoydas&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsujoydas&layout=compact&theme=react&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🥇 Featured Projects
 
-<table>
+<table align="center">
   <thead align="left">
     <tr>
       <th>Project</th>
